@@ -1,0 +1,14 @@
+
+.hero-image h1{
+    font-size: 4.5rem;
+}
+.hero-image p{
+    font-size: 1.5rem;
+}
+@media screen and(min-width : 765px;){
+    .hero-image h1{
+        font-size: 0.5rem;
+    }
+    
+}
+
